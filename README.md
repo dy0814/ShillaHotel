@@ -15,7 +15,7 @@
 
 ## 배포 주소
 
-> **개발 버전** : [호텔신라](http://cdy1.dothome.co.kr/HotelShilla)
+> **개발 버전** : [http://cdy1.dothome.co.kr/HotelShilla](http://cdy1.dothome.co.kr/HotelShilla)
 
 
 <br><br>

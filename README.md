@@ -15,9 +15,7 @@
 
 ## 배포 주소
 
-> **개발 버전** : [http://voluntain.cs.skku.edu/](http://voluntain.cs.skku.edu/) <br>
-> **프론트 서버** : [http://voluntain.cs.skku.edu:33307/](http://voluntain.cs.skku.edu:33307/)<br>
-> **백엔드 서버** : [http://voluntain.cs.skku.edu:2223/](http://voluntain.cs.skku.edu:2223/)<br>
+> **개발 버전** : [호텔신라](http://cdy1.dothome.co.kr/HotelShilla)
 
 
 <br><br>

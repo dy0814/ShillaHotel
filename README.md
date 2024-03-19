@@ -1,7 +1,7 @@
 # 1B.249
 
 <div align="center">
-<img width="329" alt="image" src="(https://github.com/dy0814/ShillaHotel/assets/163224326/c53c0d9b-5b84-4b13-8fc8-294f999d8ca1">
+<img width="329" alt="image" src="https://github.com/dy0814/ShillaHotel/assets/163224326/c53c0d9b-5b84-4b13-8fc8-294f999d8ca1">
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVoluntain-SKKU%2FVoluntain-2nd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -103,9 +103,9 @@ $ npm run dev
 ## 화면 구성 📺
 | 메인 페이지  |  회원가입 페이지   |
 | :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://user-images.githubusercontent.com/50205887/208036155-a57900f7-c68a-470d-923c-ff3c296ea635.png"/> |  <img width="329" src="https://user-images.githubusercontent.com/50205887/208036645-a76cf400-85bc-4fa2-af72-86d2abf61366.png"/>|  
+|  <img width="329" src="https://github.com/dy0814/ShillaHotel/assets/163224326/d381182f-bc0e-412d-ac2a-c8f3c66c5c35"/> |  <img width="329" src="https://github.com/dy0814/ShillaHotel/assets/163224326/79ba59ce-a816-4923-937c-2dbce757b9df"/>|  
 | 로그인 페이지   |  게시판 페이지   |  
-| <img width="329" src="https://user-images.githubusercontent.com/50205887/208038737-2b32b7d2-25f4-4949-baf5-83b5c02915a3.png"/>   |  <img width="329" src="https://user-images.githubusercontent.com/50205887/208038965-43a6318a-7b05-44bb-97c8-b08b0495fba7.png"/>     |
+| <img width="329" src="https://github.com/dy0814/ShillaHotel/assets/163224326/cb678b21-58aa-4626-b328-ce552be557fc"/>   |  <img width="329" src="https://github.com/dy0814/ShillaHotel/assets/163224326/a3676619-c9aa-4d04-93b2-6c12fa850c53"/>     |
 
 ---
 ## 주요 기능 📦

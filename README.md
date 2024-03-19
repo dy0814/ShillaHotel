@@ -1,14 +1,11 @@
 # 1B.249
 
 <div align="center">
-<img width="329" alt="image" src="https://github.com/dy0814/ShillaHotel/assets/163224326/c53c0d9b-5b84-4b13-8fc8-294f999d8ca1">
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVoluntain-SKKU%2FVoluntain-2nd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img alt="image" src="https://github.com/dy0814/ShillaHotel/assets/163224326/c53c0d9b-5b84-4b13-8fc8-294f999d8ca1">
 
 </div>
 
-# 1B.249 BackEnd Web Page
+# BackEnd Web Page
 > **- 신라 호텔 과 더 플라자 호텔 -** <br/> **- 개발기간: 2022.02.19 ~ 2022.2.26 -**
 
 ## 배포 주소
@@ -21,13 +18,13 @@
 
 |      함지수       |          최두연         |       김광제         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://user-images.githubusercontent.com/50205887/205326013-af001243-a77d-4601-8bfc-aa713931cf95.png" />    |                      <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" />    |                   <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570634-247c3715-a54e-4f63-8c08-9b266f8a35f7.png"/>   |
+|   <img width="160px" src="#" />    |                      <img width="160px" src="https://github.com/dy0814/ShillaHotel/assets/163224326/ea3766e7-24ce-483c-897f-d2869f1f1848" />    |                   <img width="160px" src="#"/>   |
+|   [@parkjiye](https://github.com/parkjiye)   |    [@dy0814](https://github.com/dy0814)  | [@hyunjeong408](https://github.com/hyunjeong408)  |
+|      **김태영**       |          **주진홍**         |       **최민기**         |                                                                                                               
+|   <img width="160px" src="#" />    |                      <img width="160px" src="#" />    |                   <img width="160px" src="#"/>   |
 |   [@parkjiye](https://github.com/parkjiye)   |    [@ChaeyeonSeo](https://github.com/ChaeyeonSeo)  | [@hyunjeong408](https://github.com/hyunjeong408)  |
-|      김태영       |          주진홍         |       최민기         |                                                                                                               
-|   <img width="160px" src="https://user-images.githubusercontent.com/50205887/205326013-af001243-a77d-4601-8bfc-aa713931cf95.png" />    |                      <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" />    |                   <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570634-247c3715-a54e-4f63-8c08-9b266f8a35f7.png"/>   |
-|   [@parkjiye](https://github.com/parkjiye)   |    [@ChaeyeonSeo](https://github.com/ChaeyeonSeo)  | [@hyunjeong408](https://github.com/hyunjeong408)  |
-|      정동균       |                           
-|   <img width="160px" src="https://user-images.githubusercontent.com/50205887/205326013-af001243-a77d-4601-8bfc-aa713931cf95.png" />    |
+|      **정동균**       |                           
+|   <img width="160px" src="#" />    |
 |   [@parkjiye](https://github.com/parkjiye)   |
 
 

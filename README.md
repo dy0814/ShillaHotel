@@ -5,8 +5,12 @@
 
 </div>
 
+<br><br><br>
+
 # BackEnd Web Page
 > **- 신라 호텔 과 더 플라자 호텔 -** <br/> **- 개발기간: 2022.02.19 ~ 2022.2.26 -**
+
+<br>
 
 ## 배포 주소
 
@@ -14,6 +18,8 @@
 > **프론트 서버** : [http://voluntain.cs.skku.edu:33307/](http://voluntain.cs.skku.edu:33307/)<br>
 > **백엔드 서버** : [http://voluntain.cs.skku.edu:2223/](http://voluntain.cs.skku.edu:2223/)<br>
 
+
+<br><br>
 ## 팀 1B.249 소개
 
 |      함지수       |          최두연         |       김광제         |                                                                                                               
@@ -27,6 +33,8 @@
 |   <img width="160px" src="#" />    |
 |   [@parkjiye](https://github.com/parkjiye)   |
 
+
+<br><br>
 
 ## 프로젝트 소개
 
@@ -43,35 +51,21 @@ Our website supports the following component.
 2. Q&A section to ask questions freely.
 3. Function to check the lecture you watched recently.
 
+<br><br>
+
 ## 시작 가이드
 ### Requirements
 For building and running the application you need:
 
-- [Eclipse](https://#)
-- [Oracle DB](https://#)
+- [Eclipse](https://www.eclipse.org/)
+- [Oracle](https://www.oracle.com/kr/)
 
 ### Installation
-``` bash
-$ git clone https://github.com/Voluntain-SKKU/Voluntain-2nd.git
-$ cd Voluntain-2nd
-```
-#### Backend
-```
-$ cd strapi-backend
-$ nvm use v.14.19.3
-$ npm install
-$ npm run develop
-```
+- [Eclipse-Download](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-03/R/eclipse-inst-jre-win64.exe)
+- [Oracle Developer](https://www.oracle.com/kr/database/sqldeveloper/technologies/download/)
 
-#### Frontend
-```
-$ cd voluntain-app
-$ nvm use v.14.19.3
-$ npm install 
-$ npm run dev
-```
 
----
+<br><br>
 
 ## Stacks 🐈
 
@@ -91,8 +85,8 @@ $ npm run dev
 
 ### Communication
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
 ---
 ## 화면 구성 📺

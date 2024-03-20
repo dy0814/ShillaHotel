@@ -24,13 +24,13 @@
 |      함지수       |          최두연         |       김광제         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
 |   <img width="160px" src="#" />    |                      <img width="160px" src="https://github.com/dy0814/ShillaHotel/assets/163224326/ea3766e7-24ce-483c-897f-d2869f1f1848" />    |                   <img width="160px" src="#"/>   |
-|   [@parkjiye](https://github.com/parkjiye)   |    [@dy0814](https://github.com/dy0814)  | [@hyunjeong408](https://github.com/hyunjeong408)  |
+|   [@](https://github.com/)   |    [@dy0814](https://github.com/dy0814)  | [@](https://github.com/)  |
 |      **김태영**       |          **주진홍**         |       **최민기**         |                                                                                                               
 |   <img width="160px" src="#" />    |                      <img width="160px" src="#" />    |                   <img width="160px" src="#"/>   |
-|   [@parkjiye](https://github.com/parkjiye)   |    [@ChaeyeonSeo](https://github.com/ChaeyeonSeo)  | [@hyunjeong408](https://github.com/hyunjeong408)  |
+|   [@](https://github.com/)   |    [@](https://github.com/)  | [@](https://github.com/)  |
 |      **정동균**       |                           
 |   <img width="160px" src="#" />    |
-|   [@parkjiye](https://github.com/parkjiye)   |
+|   [@](https://github.com/)   |
 
 
 <br><br>
